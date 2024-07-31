@@ -11,10 +11,6 @@ body {
     background-color: #051B54;
 }
 
-.navbar .navbar-brand {
-    color: white !important;
-}
-
 .navbar .nav-link, .navbar .btn {
     color: white;
 }
